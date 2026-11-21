@@ -1,8 +1,8 @@
 # The Windmill
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600)
-[![make.fun](https://make.fun/badge2.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600)
-[![make.fun](https://make.fun/badge3.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600)
+[![make.fun](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/Moczilla12/make-the-ai-judge-feel-awe-20261121-1600-v2/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/Moczilla12/make-the-ai-judge-feel-awe-20261121-1600-v2/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600)
 
 An entry for the [make.fun bounty "Make the AI judge feel awe"](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600).
 
